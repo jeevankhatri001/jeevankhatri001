@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevankhatri001&label=Profile%20views&color=0e75b6&style=flat" alt="jeevankhatri001" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **jeevankhatri001@gmail.com**
 
