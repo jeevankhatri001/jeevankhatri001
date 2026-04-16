@@ -52,7 +52,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/jeevan-khatri"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/jeevankhari10"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.instagram.com/trainwithjeevan/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
