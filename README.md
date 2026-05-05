@@ -10,7 +10,7 @@
 - 🎓 BSc Computer Science (AI) Student  
 - 💪 Athlete training 6x/week  
 - 🤖 Currently learning **Machine Learning, Deep Learning & Computer Vision**  
-- 🎯 Goal: Become an **AI Engineer before Sept 2026**  
+- 🎯 Goal: Become an **AI Engineer **  
 - 📍 Based in Nepal  
 
 ---
